@@ -1,0 +1,2 @@
+# ElementPlusDragForm
+基于ElementPlus的Vue3表单拖拽生成插件。
